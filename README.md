@@ -6,4 +6,3 @@ Stories: login, portfolio, buy, sell, history
 =======
 Buy order rule: quantity must be greater than zero
 >>>>>>> ae3a7ba (TL-3: note buy-order validation rule)
-a line we will undo publicly
